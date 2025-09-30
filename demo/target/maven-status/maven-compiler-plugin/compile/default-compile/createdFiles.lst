@@ -1,7 +1,0 @@
-com\spring\demo\DemoApplication.class
-com\spring\Repo\StudentRepo.class
-com\spring\Handling\StudentNotFound.class
-com\spring\Handling\ExceptionalHandling.class
-com\spring\Controller\StudentController.class
-com\spring\Model\Student.class
-com\spring\helper\StudentResponseStructure.class
